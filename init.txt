@@ -1,1 +1,5 @@
-。。。。
+1.chapter1 linear Structure including Linear list,Stack ,List and String
+2.chapter2 Tree Stucture including binary tree and tree
+3.chapter3 graph Structrue
+4.chapter4 searching ways
+5.chapter5 sort ways
